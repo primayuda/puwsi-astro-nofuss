@@ -1,0 +1,21 @@
+---
+import Layout from "@layouts/Layout.astro";
+import MemberCard from "@components/MemberCard.astro";
+import members from "@content/members.json"
+
+const metadata = {
+  title: "Anggota - PUWSI/IRDBA",
+  description: "Anggota PUWSI/IRDBA periode 2021 - 2023.",
+};
+
+---
+
+<Layout {...metadata}>
+  <section class="flex flex-col items-center">
+    <h1 class="sm:text-4xl text-3xl font-bold mb-6 dark:text-white">Anggota</h1>
+    <p class="dark:text-zinc-300 mb-6">Periode 2021 - 2023</p>
+  </section>
+  <section class="grid md:grid-cols-2 lg:grid-cols-3">
+    {members.map(member => <MemberCard src={member.src} name={member.name} location={member.location} />)}
+  </section>
+</Layout>

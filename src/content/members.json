@@ -1,0 +1,47 @@
+[
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419897/PUWSI/Member%20Logo/KKD-1024x759_wpnw7l.jpg",
+    "name": "Kristal Klear Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419897/PUWSI/Member%20Logo/Pulau_Laut_a8gdk8.jpg",
+    "name": "Pulau Laut Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419897/PUWSI/Member%20Logo/pinguin-logo-2-1024x897_ntrwjs.png",
+    "name": "Penguin Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/photodivetrip-1_wlzd6a.jpg",
+    "name": "Photo Dive Trip",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419897/PUWSI/Member%20Logo/kurabesi-1_wqsd6t.jpg",
+    "name": "Kurabesi Explorer",
+    "location": "Liveaboard"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/Oceano_woubhp.jpg",
+    "name": "Oseano Scuba",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/Oye-Selam_dxtwqx.jpg",
+    "name": "Oye Selam",
+    "location": "Makassar"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/paradive-logo-black-1024x1024_zpozd5.png",
+    "name": "Para Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/oceanstar_ykynw9.jpg",
+    "name": "Ocean Star",
+    "location": "Jakarta"
+  }
+]
