@@ -1,0 +1,21 @@
+---
+import Layout from "@layouts/Layout.astro";
+import TeamCard from "@components/TeamCard.astro";
+import teams from "@content/teams.json"
+
+const metadata = {
+  title: "Pengurus - PUWSI/IRDBA",
+  description: "Pengurus PUWSI/IRDBA periode 2021 - 2023.",
+};
+
+---
+
+<Layout {...metadata}>
+  <section class="flex flex-col items-center">
+    <h1 class="sm:text-4xl text-3xl font-bold mb-6 dark:text-white">Susunan Pengurus</h1>
+    <p class="dark:text-zinc-300 mb-6">Periode 2021 - 2023</p>
+  </section>
+  <section class="grid md:grid-cols-2 lg:grid-cols-3">
+    {teams.map(team => <TeamCard src={team.src} name={team.name} title={team.title} />)}
+  </section>
+</Layout>
