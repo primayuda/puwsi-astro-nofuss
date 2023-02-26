@@ -11,10 +11,10 @@ export interface Props {
 }
 
 const defaultMeta = {
-  title: "NoFuss Astro",
-  description: "No fuss Astro Template for Landing, Blog and Docs page. No complicated design and setup, just start editing.",
-  image: "/banner.png",
-  imageAlt: "Mountain Logo with NoFuss",
+  title: "PUWSI/IRDBA",
+  description: "Perkumpulan Usaha Wisata Selam Indonesia atau Indonesia Recreational Diving Business.",
+  image: "/logopuwsi.png",
+  imageAlt: "Logo PUWSI atau IRDBA",
 };
 
 const { title = defaultMeta.title, description = defaultMeta.description, heroImage = defaultMeta.image, imageAlt = defaultMeta.imageAlt } = Astro.props as Props;
@@ -29,7 +29,7 @@ const classBody =
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/logopuwsi.png" />
     <title>{title}</title>
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="canonical" href={canonicalURL} />

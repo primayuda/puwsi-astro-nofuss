@@ -1,17 +1,17 @@
 export const homepage = [
   {
-    title: "Blazingly Fast",
-    content: "The reason why I chose Astro is because it's blazingly fast. It's also a component-based framework, so you can easily reuse your components.",
-    icon: "charm:rocket",
+    title: "Pengembangan Kompetensi",
+    content: "Dukungan kepada seluruh anggota untuk meningkatkan dan mengembangkan potensi usaha wisata selam rekreasi secara positif.",
+    icon: "mdi:head-idea-outline",
   },
   {
-    title: "Easy to use",
-    content: "Need to use this template? Just clone it and start writing your content. No complicated setup, no complicated design.",
-    icon: "ph:code-bold",
+    title: "Kolaborasi",
+    content: "Membina hubungan yang baik dan serasi dengan pengguna jasa selam serta instansi-instansi swasta maupun Pemerintah Pusat dan Daerah.",
+    icon: "carbon:collaborate",
   },
   {
-    title: "Free and Open Source",
-    content: "Found some issues or want to contribute? Feel free to open an issue or pull request on GitHub.",
-    icon: "charm:plant-pot",
+    title: "Globalisasi",
+    content: "Berkiprah dalam era globalisasi dan berperan serta dalam Pembangunan Nasional dan Internasional pada sektor Pariwisata.",
+    icon: "mdi:world-wide-web",
   },
 ];
