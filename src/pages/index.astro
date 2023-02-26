@@ -5,12 +5,15 @@ import Counter from "@components/Counter.astro";
 import counter from "@content/counter.json";
 import { homepage } from "@content/homepage";
 import Features from "@components/Features.astro";
+import Carousel from "@components/Carousel.astro";
+;
 ---
 
 <Layout>
   <section class="grid py-10 place-items-center text-center">
     <h1 class="sm:text-4xl text-3xl font-bold mb-6 dark:text-white">Perkumpulan Usaha Wisata Selam Indonesia</h1>
     <p>Organisasi yang berdedikasi tinggi terhadap Industri Wisata Selam Indonesia dan sebagai Organisasi pemersatu Pengusaha Wisata Selam di Indonesia.</p>
+    <a href="https://forms.gle/LzB1WEhgSy7hU94g6" target="_blank" class="btn btn-lg btn-primary mt-4">Daftar PUWSI</a>
   </section>
   {homepage.map((homepage) => <Features title={homepage.title} icon={homepage.icon} content={homepage.content} />)}
   <section class="py-20 sm:flex sm:items-center sm:justify-evenly text-center sm:text-left">
@@ -23,6 +26,9 @@ import Features from "@components/Features.astro";
         </ul>
       )
     }
+  </section>
+  <section>
+    <Carousel />
   </section>
   <Footer />
 </Layout>
