@@ -11,28 +11,38 @@ const metadata = {
 
 <Layout {...metadata}>
   <section class="flex flex-col items-center">
+    <h2>Silakan bergabung untuk memajukan industri wisata selam di Indonesia</h2>
+    <a href="https://forms.gle/LzB1WEhgSy7hU94g6" target="_blank" class="btn btn-lg btn-primary mt-4">Daftar PUWSI</a>
+    <div>
+      <h2 class="mt-5 bold text-2xl font-bold text-center">Perkumpulan Usaha Wisata Selam Indonesia</h2>
+      <p class="text-center">Jl. Tebet Timur Raya no.2 RT.01 RW.07</p>
+      <p class="text-center">(depan Taman Honda Tipsea Coffee)</p>
+      <p class="text-center mb-8">Jakarta Selatan 12820</p>
+    </div>
+  </section>
+  <section class="flex flex-col items-center">
     <h1 class="sm:text-4xl text-3xl font-bold mb-6 dark:text-white">Silakan tinggalkan pesan di bawah ini</h1>
   </section>
-  <section class="flex flex-col gap-2">
+  <section class="flex flex-col gap-2 items-center">
     <form action="https://api.web3forms.com/submit" method="POST">
       <input type="hidden" name="access_key" value="ce0133ad-3bb6-471f-ab03-4b985c3e7808">
-      <div class="form-control w-full max-w-xs">
+      <div class="form-control w-full">
         <label class="label">
           <span class="label-text dark:text-white">Nama anda?</span>
         </label>
-        <input type="text" placeholder="Ketik disini" name="name" class="input input-bordered w-full max-w-xs focus:input-primary dark:text-black" required />
+        <input type="text" placeholder="Ketik disini" name="name" class="input input-bordered w-full focus:input-primary dark:text-black" required />
       </div>
-      <div class="form-control w-full max-w-xs">
+      <div class="form-control w-full">
         <label class="label">
           <span class="label-text dark:text-white">Email anda?</span>
         </label>
-        <input type="email" placeholder="Ketik disini" name="email" class="input input-bordered w-full max-w-xs focus:input-primary dark:text-black" required />
+        <input type="email" placeholder="Ketik disini" name="email" class="input input-bordered w-full focus:input-primary dark:text-black" required />
       </div>
-      <div class="form-control w-full max-w-xs">
+      <div class="form-control w-full">
         <label class="label">
           <span class="label-text dark:text-white">Nomer handphone/WA?</span>
         </label>
-        <input type="tel" placeholder="Ketik disini" name="phone" class="input input-bordered w-full max-w-xs focus:input-primary dark:text-black"/>
+        <input type="tel" placeholder="Ketik disini" name="phone" class="input input-bordered w-full focus:input-primary dark:text-black"/>
       </div>
       <div class="form-control">
         <label class="label">
