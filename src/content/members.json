@@ -43,5 +43,370 @@
     "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/oceanstar_ykynw9.jpg",
     "name": "Ocean Star",
     "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/Nadipati-1_qrrjnm.jpg",
+    "name": "Nadipati DC",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/Milakancana-DC_ow0b7r.jpg",
+    "name": "Milakancana Dive Center",
+    "location": "Bogor"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419896/PUWSI/Member%20Logo/Maratua-Dive-Center-1024x850_bp4gk7.jpg",
+    "name": "Maratua Dive Center",
+    "location": "Berau"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/Logo-Benneta-3-edited_obrjh9.jpg",
+    "name": "Benneta",
+    "location": "Liveaboard"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/logo-bbc-2-1-1024x813_gm4pdv.jpg",
+    "name": "Bintan Black Coral",
+    "location": "Bintan"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/Jakarta-Ocean-Dive_uvrhdl.png",
+    "name": "Jakarta Ocean Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/livigseasn_lxmsem.png",
+    "name": "Livingseas",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/Lets_Dive_hhssqo.jpg",
+    "name": "Let's Dive",
+    "location": "Labuan Bajo"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/instrumen_lot1ee.png",
+    "name": "Instrument Dive Adventure",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/Jakarta-Diving-School_t2vghf.png",
+    "name": "Jakarta Diving School",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/image024_kuwfz0.jpg",
+    "name": "Family Diver",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419895/PUWSI/Member%20Logo/IMG-20181115-WA0060-1024x512_mvam7v.jpg",
+    "name": "Bandung Scuba Center",
+    "location": "Bandung"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image024_1_pkow1r.jpg",
+    "name": "Manta Point Diver",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image023_vumoca.jpg",
+    "name": "Sahabat Selam Indonesia",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image023_1_jnwmi5.jpg",
+    "name": "Bone Dive",
+    "location": "Bone"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image021_whx5cg.jpg",
+    "name": "Global Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image022_m60xjq.jpg",
+    "name": "Mazu Divers",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image022_1_erjmf4.jpg",
+    "name": "Octopus Dive",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image021_1_n5tfdq.jpg",
+    "name": "Max's Dive Corner",
+    "location": "Batam"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image020_lmbfa2.jpg",
+    "name": "Pro Dive",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image018_1_qf2esc.jpg",
+    "name": "Salvador Scuba Community",
+    "location": "Gorontalo"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419894/PUWSI/Member%20Logo/image020_1_qtgwcv.jpg",
+    "name": "Bali Stingray Diver",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image019_iuk18i.jpg",
+    "name": "Black Manta Divers Club",
+    "location": "Serang"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image018_i6nbn2.jpg",
+    "name": "Blue Tuturuga",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image019_1_dpgwou.jpg",
+    "name": "Rock N Roll Divers",
+    "location": "Buton"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image017_jvfxmi.jpg",
+    "name": "Dodoku Dive Center",
+    "location": "Ternate"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image017_1_gnyya3.jpg",
+    "name": "Archipelago Dive",
+    "location": "Depok"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image015_qdf3na.jpg",
+    "name": "Tomia Scuba Dive",
+    "location": "Wakatobi"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image015_1_llmvi2.jpg",
+    "name": "Wakatobi Dive Adventure",
+    "location": "Wakatobi"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419893/PUWSI/Member%20Logo/image014_u9t1je.jpg",
+    "name": "Gelembung Samudera Adventure",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image013_gnqlcm.jpg",
+    "name": "Elang Ekowisata",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image013_1_wrxi49.jpg",
+    "name": "Nusa Penida Watersport",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image012_mydad4.jpg",
+    "name": "Bubbles Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image012_1_z1d6qm.jpg",
+    "name": "Bali Marine Diving",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image011_1_qvwltq.jpg",
+    "name": "Indonesia Dive Safari",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image009_yfcty0.jpg",
+    "name": "Minangkabau Diver",
+    "location": "Padang"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image010_zy1zty.jpg",
+    "name": "NDT Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image010_1_eyseod.jpg",
+    "name": "Ody Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image008_xgwlyp.jpg",
+    "name": "Noble Diving Resort",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419892/PUWSI/Member%20Logo/image009_1_siajwc.jpg",
+    "name": "Wakatobi Dive Trip",
+    "location": "Wakatobi"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image008_1_cgsdqu.jpg",
+    "name": "iDive Komodo",
+    "location": "Labuan Bajo"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image007_deexkb.jpg",
+    "name": "Alexa Scuba",
+    "location": "Kendari"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image007_1_jh2aza.jpg",
+    "name": "Segara Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image006_dn5hw6.jpg",
+    "name": "Kuhita Dive Maratua",
+    "location": "Maratua"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image006_1_bkdtri.jpg",
+    "name": "Lombok Scuba",
+    "location": "Lombok"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image005_ekhsmp.jpg",
+    "name": "Rekan Dive Center",
+    "location": "Wakatobi"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image004_b59qpo.jpg",
+    "name": "Selayar Marine Dive",
+    "location": "Selayar"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419891/PUWSI/Member%20Logo/image003_le6d5t.jpg",
+    "name": "Liquid Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/image004_1_or69dd.jpg",
+    "name": "Nemo Diving Center",
+    "location": "Makassar"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/image003_1_bh4aq3.jpg",
+    "name": "Laut Dive Indo",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/image002_dduwsb.jpg",
+    "name": "Global Dive Lodge",
+    "location": "Gorontalo"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/Hemueco_nr5806.png",
+    "name": "HamuEco Dive Resort",
+    "location": "Raja Ampat"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/image001_ltpccz.jpg",
+    "name": "Scuba Life Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/DPK-Logos-01-1-edited_qpzbrj.png",
+    "name": "Divers Paradise Komodo",
+    "location": "Labuan Bajo"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/hobby-dive_l0a0i8.jpg",
+    "name": "Hobby Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419890/PUWSI/Member%20Logo/cajoma_qwzwiv.png",
+    "name": "Cajoma",
+    "location": "Labuan Bajo"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419889/PUWSI/Member%20Logo/CHA-dive-1024x914_leingg.jpg",
+    "name": "Borneo Cha Dive Center",
+    "location": "Kalimantan Selatan"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419889/PUWSI/Member%20Logo/beavers-774x1024_ukq0qc.jpg",
+    "name": "Beaversz Dive Services",
+    "location": "Bogor"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419889/PUWSI/Member%20Logo/BFD_juyaxw.jpg",
+    "name": "BFD",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419889/PUWSI/Member%20Logo/Wayang-DC_sul5py.jpg",
+    "name": "Wayang DC",
+    "location": "Bekasi"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419889/PUWSI/Member%20Logo/bali-aqua_snt5bn.png",
+    "name": "Bali Aqua",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419889/PUWSI/Member%20Logo/Whale_zsvwac.jpg",
+    "name": "Whale Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419888/PUWSI/Member%20Logo/aquamarine_mqkv3w.png",
+    "name": "Aqua Marine",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419888/PUWSI/Member%20Logo/smol-image010_ntjjre.jpg",
+    "name": "Flying Fish",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419888/PUWSI/Member%20Logo/Spice-island_cg4faw.jpg",
+    "name": "Spice Island Divers",
+    "location": "Ambon"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419888/PUWSI/Member%20Logo/Wailino_zbxezx.jpg",
+    "name": "Wailino Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419888/PUWSI/Member%20Logo/smol-image009_k290nf.jpg",
+    "name": "Nasijaha Dive Center",
+    "location": "Ternate"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419888/PUWSI/Member%20Logo/smol-image012_luxrtz.jpg",
+    "name": "Zombie Marine Dive",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419887/PUWSI/Member%20Logo/Shark_Dive_imojti.jpg",
+    "name": "Shark Diving Indonesia",
+    "location": "Morotai"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419887/PUWSI/Member%20Logo/smol-image008_w8vcy1.jpg",
+    "name": "Ena Dive",
+    "location": "Bali"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419887/PUWSI/Member%20Logo/seapearl_eqoqxf.png",
+    "name": "Sea Pearl Dive Center",
+    "location": "Jakarta"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419887/PUWSI/Member%20Logo/smol-image001_jqtmlm.jpg",
+    "name": "Sekolah Diving Bandung",
+    "location": "Bandung"
+  },
+  {
+    "src": "https://res.cloudinary.com/primayuda/image/upload/v1677419887/PUWSI/Member%20Logo/seamore2-1_yqmnqp.jpg",
+    "name": "Seamore",
+    "location": "Liveaboard"
   }
 ]
